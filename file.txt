@@ -1,0 +1,1 @@
+hi iam amaan , this is my file to read no. of words in a file

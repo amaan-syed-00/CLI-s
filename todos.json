@@ -1,0 +1,17 @@
+[
+    {
+        "id": 0,
+        "_task": "go to gym",
+        "completed": true
+    },
+    {
+        "id": 1,
+        "_task": "attend the class at 7:30 pm",
+        "completed": false
+    },
+    {
+        "id": 2,
+        "_task": "wash clothes",
+        "completed": false
+    }
+]
